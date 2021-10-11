@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oz9UWZj7kA+6yfmP2HuGki7ksSPNZKq0jb+WPngZ3RrEbJUNTbjIAZm2N0fm6VzfNObnaHbY53nBwUDDS2QyoQ==",
+  "success": true,
+  "projectFilePath": "D:\\Txcai\\Microservices\\Accessment\\Intermediate\\Question-3A\\MyRabbitConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\txcai\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\txcai\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\txcai\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\txcai\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
